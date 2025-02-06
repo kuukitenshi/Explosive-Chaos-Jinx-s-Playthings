@@ -1,0 +1,9 @@
+build/
+.cache/
+.vscode/
+
+code/release/assets
+code/relese/*.exe
+
+code/source/assets/skybox
+code/source/assets/arcane_loot_models

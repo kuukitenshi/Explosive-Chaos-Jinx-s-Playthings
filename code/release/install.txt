@@ -1,0 +1,13 @@
+# Developer:
+
+Project made by:
+- ist1112269 - Laura Cunha
+
+#-------------------------------------------------------------------
+# Running
+
+To run the application, first follow the steps provided in the build.txt file located in the \code\source directory.
+
+Then, in the \code\release directory, double-click the executable file arcane_loot.exe or execute the command:
+
+.\arcane_loot.exe

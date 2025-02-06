@@ -1,0 +1,23 @@
+# Developer:
+
+Project made by:
+- ist1112269 - Laura Cunha
+
+#-------------------------------------------------------------------
+# Building
+
+To recreate the release directory from the source provided, run the build executable (build.bat) in the \code\source directory with the command:
+
+.\build.bat  
+
+The executable will download the models for the scene and compile the code using CMake.
+
+#-------------------------------------------------------------------
+# Dependencies:
+
+- Cmake (>=3.26)
+- C++20 compatible compiler
+- GLM - Math Library
+- GLAD - OpenGL bindings
+- GLFW - Windowing system
+- ASSIMP - Model loading
